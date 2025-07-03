@@ -18,6 +18,8 @@ Link:-https://expo.dev/artifacts/eas/8ASyGYLy6reSQaRRSKmaMv.apk
 ![6cb330b9-8118-49c2-9d60-93aab7d4709b](https://github.com/user-attachments/assets/09a96344-ec41-458a-a149-a7e14ce220a2)
 
 
+![99586f63-3bd0-46d1-bc52-73c1a5996f2a](https://github.com/user-attachments/assets/b694eb84-7194-43ed-8daa-1e26f2b440d0)
+
 # Search Screen
 ![2c3739be-f1c8-4b01-9454-258880779468](https://github.com/user-attachments/assets/053197c0-af2e-42b3-9898-ab7357b0da7d)
 
@@ -25,4 +27,3 @@ Link:-https://expo.dev/artifacts/eas/8ASyGYLy6reSQaRRSKmaMv.apk
 ![f5db2d8f-4939-4bec-8f78-123452915021](https://github.com/user-attachments/assets/2194c920-90e1-4824-9cf4-c8699dcc4968)
 
 
-![99586f63-3bd0-46d1-bc52-73c1a5996f2a](https://github.com/user-attachments/assets/b694eb84-7194-43ed-8daa-1e26f2b440d0)
