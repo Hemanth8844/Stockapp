@@ -15,8 +15,12 @@ Link:-https://expo.dev/artifacts/eas/8ASyGYLy6reSQaRRSKmaMv.apk
 # WatchList
 ![cdfe5ebd-5415-4770-be4f-2025994439db](https://github.com/user-attachments/assets/96162ce0-576e-4365-a921-740d902d8e29)
 
+![6cb330b9-8118-49c2-9d60-93aab7d4709b](https://github.com/user-attachments/assets/09a96344-ec41-458a-a149-a7e14ce220a2)
+
+
 # Search Screen
 ![2c3739be-f1c8-4b01-9454-258880779468](https://github.com/user-attachments/assets/053197c0-af2e-42b3-9898-ab7357b0da7d)
+
 
 ![f5db2d8f-4939-4bec-8f78-123452915021](https://github.com/user-attachments/assets/2194c920-90e1-4824-9cf4-c8699dcc4968)
 
